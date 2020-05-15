@@ -33,6 +33,7 @@ plugins:
   - cleanupNumericValues
   - cleanupListOfValues
   - convertColors
+  - optimizeRasterImage
   - removeUnknownsAndDefaults
   - removeNonInheritableGroupAttrs
   - removeUselessStrokeAndFill
