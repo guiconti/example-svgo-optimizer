@@ -58,6 +58,7 @@
     "mkdirp": "~0.5.1",
     "object.values": "^1.1.0",
     "sax": "~1.2.4",
+    "sharp": "^0.25.2",
     "stable": "^0.1.8",
     "unquote": "~1.1.1",
     "util.promisify": "~1.0.0"
